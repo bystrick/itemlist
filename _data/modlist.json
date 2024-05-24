@@ -90,6 +90,12 @@
     "version": null
   },
   {
+    "author": "Inglix",
+    "name": "Apparel Tainted Only When Corpse Rots",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Biscuit",
     "name": "Archotech+ (Continued)",
     "steamId": "2270493883",
@@ -98,6 +104,12 @@
   {
     "author": "tiagorbrodrigues",
     "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ireth92",
+    "name": "Beautiful Bodies",
     "steamId": null,
     "version": null
   },
@@ -120,9 +132,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kikohi",
+    "author": "Kikohi and Sarg",
     "name": "Better ground-penetrating scanner",
-    "steamId": "2809972387",
+    "steamId": "3203274131",
     "version": "1.0.0.0"
   },
   {
@@ -160,6 +172,30 @@
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
     "version": "1.0.9.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
+  },
+  {
+    "author": "GoryMoon",
+    "name": "CloseAll",
+    "steamId": "2018479759",
+    "version": "1.7.8882.41522"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8895.34406"
   },
   {
     "author": "PeteTimesSix",
@@ -264,6 +300,12 @@
     "version": null
   },
   {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
     "name": "Vanilla Factions Expanded - Tribals",
     "steamId": null,
@@ -298,6 +340,12 @@
     "name": "Five Second Rule",
     "steamId": "1324190225",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Food Poisoning Stack Fix (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
@@ -340,6 +388,12 @@
     "name": "GlitterNet",
     "steamId": "1725544583",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Telefonmast",
@@ -388,6 +442,18 @@
     "name": "Integrated Implants",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 3.0",
+    "steamId": "2884551646",
+    "version": "1.0.0.0"
   },
   {
     "author": "MN",
@@ -492,6 +558,12 @@
     "version": "1.0.0+930a1dac5636543bb9c7a958b78a0719e601ed5f"
   },
   {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Animals Expanded",
     "steamId": "2871933948",
@@ -579,7 +651,7 @@
     "author": "Mlie",
     "name": "Prisoners Dont Have Keys",
     "steamId": "2595360307",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "Amnabi",
@@ -666,6 +738,24 @@
     "version": "1.0.0+4ff143b63d2ab5f55e26fd67374dfa203a73c0d2"
   },
   {
+    "author": "ILuvSilicon",
+    "name": "RimRaces - Cruttun Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "RimRaces - Grodan Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RimWorld-CrowdControl",
+    "name": "RimWorld CrowdControl",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo",
     "name": "Search and Destroy (Unofficial Update)",
     "steamId": null,
@@ -714,6 +804,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, xrushha and legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Foggy Morning",
+    "name": "Star Wars Races",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Scherub",
     "name": "Stonecutting Extended",
     "steamId": "2571676542",
@@ -738,6 +846,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "José Ángel Soler Ortiz",
+    "name": "Trading Options",
+    "steamId": "2876541977",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "NomadRw",
+    "name": "Turret Vanilla Retexture and Industrial theme",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -756,16 +876,10 @@
     "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
   },
   {
-    "author": "José Ángel Soler Ortiz",
-    "name": "Trading Options",
-    "steamId": "2876541977",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "NomadRw",
-    "name": "Turret Vanilla Retexture and Industrial theme",
-    "steamId": null,
-    "version": null
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
   },
   {
     "author": "dhultgren",
@@ -1038,22 +1152,40 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "CodeOptimist",
+    "name": "While You're Up (with add-on for PUAH)",
+    "steamId": "2034960453",
+    "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
+  },
+  {
     "author": "RedMattis",
     "name": "Wololoo - Better Conversion and Recruitment",
     "steamId": "3108763487",
     "version": "0.0.0.0"
   },
   {
+    "author": "Fluffy and patched by arof",
+    "name": "Work Tab 1.5 Temp",
+    "steamId": "2552065963",
+    "version": "1.0.0"
+  },
+  {
     "author": "Orion",
     "name": "Xeva's Rimhair",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha and legodude17",
-    "name": "Vanilla Factions Expanded - Ancients",
-    "steamId": "2654846754",
-    "version": "1.0.0.0"
   },
   {
     "author": "YAYO",
@@ -1087,33 +1219,21 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
     "version": "1.7.7368"
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
+    "author": "TheEyeOfBrows",
+    "name": "Fluffy Breakdowns (1.5 Update)",
+    "steamId": "2584064444",
+    "version": "1.1.4"
   },
   {
     "author": "Alaestor, Hultis and VeteranXT",
     "name": "Misc. Robots++",
     "steamId": "747645520",
     "version": "3.3.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
     "author": "Dubwise",
@@ -1216,12 +1336,6 @@
     "name": "[GMT] Trading Spot",
     "steamId": "2874517333",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.2.0.0"
   },
   {
     "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
